@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace dawnFrost\JdJos\Request;
+namespace DawnFrost\JdJos\Request;
 
 class KeplerPushmsgSaveBatchSubBehaviourRequest
 {

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace dawnFrost\JdJos\Request\Domain\KplOpenSearchAssociationalWord;
+namespace DawnFrost\JdJos\Request\Domain\KplOpenSearchAssociationalWord;
 
 class MapResuest
 {

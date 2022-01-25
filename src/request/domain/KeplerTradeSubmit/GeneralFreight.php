@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace dawnFrost\JdJos\Request\Domain\KeplerTradeSubmit;
+namespace DawnFrost\JdJos\Request\Domain\KeplerTradeSubmit;
 
 class GeneralFreight
 {

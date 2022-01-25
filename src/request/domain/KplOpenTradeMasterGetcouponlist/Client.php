@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace dawnFrost\JdJos\Request\Domain\KplOpenTradeMasterGetcouponlist;
+namespace DawnFrost\JdJos\Request\Domain\KplOpenTradeMasterGetcouponlist;
 
 class Client
 {

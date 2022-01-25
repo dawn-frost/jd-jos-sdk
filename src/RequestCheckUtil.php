@@ -6,7 +6,7 @@ declare(strict_types=1);
  * 可以对API的参数类型、长度、最大值等进行校验.
  */
 
-namespace dawnFrost\JdJos;
+namespace DawnFrost\JdJos;
 
 class RequestCheckUtil
 {

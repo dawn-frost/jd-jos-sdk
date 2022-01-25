@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace dawnFrost\JdJos\Request\Domain\KplOpenUnionSearchByelited;
+namespace DawnFrost\JdJos\Request\Domain\KplOpenUnionSearchByelited;
 
 class UnionSearchParam
 {

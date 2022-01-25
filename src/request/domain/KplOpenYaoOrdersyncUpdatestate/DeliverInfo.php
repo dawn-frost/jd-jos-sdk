@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace dawnFrost\JdJos\Request\Domain\KplOpenYaoOrdersyncUpdatestate;
+namespace DawnFrost\JdJos\Request\Domain\KplOpenYaoOrdersyncUpdatestate;
 
 class DeliverInfo
 {

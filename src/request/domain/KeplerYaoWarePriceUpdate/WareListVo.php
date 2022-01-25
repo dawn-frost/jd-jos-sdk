@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace dawnFrost\JdJos\Request\Domain\KeplerYaoWarePriceUpdate;
+namespace DawnFrost\JdJos\Request\Domain\KeplerYaoWarePriceUpdate;
 
 class WareListVo
 {

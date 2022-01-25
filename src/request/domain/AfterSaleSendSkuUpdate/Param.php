@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace dawnFrost\JdJos\Request\Domain\AfterSaleSendSkuUpdate;
+namespace DawnFrost\JdJos\Request\Domain\AfterSaleSendSkuUpdate;
 
 class Param
 {

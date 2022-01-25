@@ -1,5 +1,5 @@
 <?php
-namespace dawnFrost\JdJos\Request\Domain\KplOpenWfpJmiwareEditWare;
+namespace DawnFrost\JdJos\Request\Domain\KplOpenWfpJmiwareEditWare;
 class Param{
 
     private $params=array();

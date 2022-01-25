@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace dawnFrost\JdJos\Request\Domain\UnionOpenGoodsLinkQuery;
+namespace DawnFrost\JdJos\Request\Domain\UnionOpenGoodsLinkQuery;
 
 class GoodsReq
 {

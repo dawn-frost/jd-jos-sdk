@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace dawnFrost\JdJos\Request\Domain\KeplerXuanpinSearchSku;
+namespace DawnFrost\JdJos\Request\Domain\KeplerXuanpinSearchSku;
 
 class PageParam
 {

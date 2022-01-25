@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace dawnFrost\JdJos\Request\Domain\UnionOpenSellingOrderRowQuery;
+namespace DawnFrost\JdJos\Request\Domain\UnionOpenSellingOrderRowQuery;
 
 class Req
 {

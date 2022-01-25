@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace dawnFrost\JdJos\Request\Domain\KplOpenNosecretpaySavetoken;
+namespace DawnFrost\JdJos\Request\Domain\KplOpenNosecretpaySavetoken;
 
 class Req
 {

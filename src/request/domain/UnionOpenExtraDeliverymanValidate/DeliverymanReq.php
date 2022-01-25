@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace dawnFrost\JdJos\Request\Domain\UnionOpenExtraDeliverymanValidate;
+namespace DawnFrost\JdJos\Request\Domain\UnionOpenExtraDeliverymanValidate;
 
 class DeliverymanReq
 {

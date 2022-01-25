@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace dawnFrost\JdJos\Request\Domain\UnionOpenPromotionParse;
+namespace DawnFrost\JdJos\Request\Domain\UnionOpenPromotionParse;
 
 class PromotionReq
 {

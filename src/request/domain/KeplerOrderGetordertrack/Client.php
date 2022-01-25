@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace dawnFrost\JdJos\Request\Domain\KeplerOrderGetordertrack;
+namespace DawnFrost\JdJos\Request\Domain\KeplerOrderGetordertrack;
 
 class Client
 {

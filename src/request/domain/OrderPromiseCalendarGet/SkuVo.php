@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace dawnFrost\JdJos\Request\Domain\OrderPromiseCalendarGet;
+namespace DawnFrost\JdJos\Request\Domain\OrderPromiseCalendarGet;
 
 class SkuVo
 {

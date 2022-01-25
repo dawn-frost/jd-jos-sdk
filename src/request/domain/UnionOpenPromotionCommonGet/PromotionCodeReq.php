@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace dawnFrost\JdJos\Request\Domain\UnionOpenPromotionCommonGet;
+namespace DawnFrost\JdJos\Request\Domain\UnionOpenPromotionCommonGet;
 
 class PromotionCodeReq
 {

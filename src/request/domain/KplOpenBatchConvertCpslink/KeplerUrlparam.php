@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace dawnFrost\JdJos\Request\Domain\KplOpenBatchConvertCpslink;
+namespace DawnFrost\JdJos\Request\Domain\KplOpenBatchConvertCpslink;
 
 class KeplerUrlparam
 {

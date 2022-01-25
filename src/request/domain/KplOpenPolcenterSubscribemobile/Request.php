@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace dawnFrost\JdJos\Request\Domain\KplOpenPolcenterSubscribemobile;
+namespace DawnFrost\JdJos\Request\Domain\KplOpenPolcenterSubscribemobile;
 
 class Request
 {

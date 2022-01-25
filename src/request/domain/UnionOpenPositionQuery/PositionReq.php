@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace dawnFrost\JdJos\Request\Domain\UnionOpenPositionQuery;
+namespace DawnFrost\JdJos\Request\Domain\UnionOpenPositionQuery;
 
 class PositionReq
 {

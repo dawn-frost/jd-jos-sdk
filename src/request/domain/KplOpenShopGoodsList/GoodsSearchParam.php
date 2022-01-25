@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace dawnFrost\JdJos\Request\Domain\KplOpenShopGoodsList;
+namespace DawnFrost\JdJos\Request\Domain\KplOpenShopGoodsList;
 
 class GoodsSearchParam
 {

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace dawnFrost\JdJos\Request\Domain\UnionOpenStatisticsGiftcouponQuery;
+namespace DawnFrost\JdJos\Request\Domain\UnionOpenStatisticsGiftcouponQuery;
 
 class EffectDataReq
 {
